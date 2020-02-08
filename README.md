@@ -85,6 +85,7 @@ tabs:
 
   # Contact
   contact: tabs/seo/contact
+```
 
 Finally, output the meta tags in your templates with the following snippet.
 
