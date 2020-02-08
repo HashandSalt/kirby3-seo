@@ -94,6 +94,13 @@ Finally, output the meta tags in your templates with the following snippet.
 
 For convenience the plugin also contains a favicon snippet:
 
+```
 <?= snippet('seo/favicon') ?>
+```
 
 You can generate the favicons at [this website link](https://realfavicongenerator.net/)
+
+
+## Generating JSON Schema data
+
+To generate any kind of schema data, you can use our [Schema plugin](https://github.com/HashandSalt/kirby3-schema) in tandem with this plugin.
