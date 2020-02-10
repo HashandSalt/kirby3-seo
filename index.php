@@ -26,7 +26,7 @@ Kirby::plugin('hashsandsalt/kirby3-seo', [
               'metakeywords'      => $page->seotags(),
               'metarobots'        => 'index, follow, noodp',
               'metaurl'           => $site->url(),
-              'metaimage'         => $page->shareimage()->toFile() ? $page->shareimage()->toFile()->focusCrop(1280, 720)->url() : ' ',
+              'metaimage'         => $page->shareimage()->toFile() ? $page->shareimage()->toFile()->crop(1280, 720)->url() : ' ',
 
               // Facebook Meta
               'metafbtype'         => 'website',
