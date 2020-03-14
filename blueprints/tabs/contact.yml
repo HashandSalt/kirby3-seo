@@ -14,9 +14,9 @@ fields:
     label:             Twitter
     type:              url
     width:             1/3
-  socialtwitterHandle:
-    label:             Twitter Handle
-    type:              text
+  twittercreator:
+    label:             Twitter
+    type:              url
     width:             1/3
   sociallinkedinURL:
     label:             LinkedIn
