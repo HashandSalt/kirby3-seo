@@ -31,6 +31,7 @@ Kirby::plugin('hashsandsalt/kirby3-seo', [
               // Facebook Meta
               'metafbtype'         => 'website',
               'metafbsitename'     => $site->title(),
+              'metafblocale'       => 'en_GB',
 
               // Twitter Meta
               'metatwcard'         => 'large_summary',
