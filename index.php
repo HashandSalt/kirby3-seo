@@ -34,7 +34,7 @@ Kirby::plugin('hashsandsalt/kirby3-seo', [
               'metafblocale'       => 'en_GB',
 
               // Twitter Meta
-              'metatwcard'         => 'large_summary',
+              'metatwcard'         => 'summary_large_image',
               'metatwsite'         => $site->socialtwitterurl()->isNotEmpty() ? $site->socialtwitterurl() : ' ',
               'metatwcreator'      => $site->twittercreator()->isNotEmpty() ? $site->twittercreator() : ' ',
 
