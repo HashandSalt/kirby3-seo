@@ -16,7 +16,7 @@ fields:
     width:             1/3
   twittercreator:
     label:             Twitter Creator
-    type:              url
+    type:              text
     width:             1/3
   sociallinkedinURL:
     label:             LinkedIn
