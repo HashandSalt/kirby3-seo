@@ -2,6 +2,8 @@
 
 A small plugin for generating meta data using shared controllers and field data. Also creates Facebook Opengraph and Twitter social sharing information.
 
+Using Kirby 4? a version of the plugin is available [here - kirby4-seo](https://github.com/HashandSalt/kirby4-seo)
+
 ## Installation
 
 ### Manual
